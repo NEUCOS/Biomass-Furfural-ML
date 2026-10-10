@@ -1,0 +1,271 @@
+Ref,Feedstock,C_xylose_wt,Temp_C,Time_min,Pressure_MPa,Catalyst_Type,Cat_Loading_mM,Acid_B_L_Ratio,Solvent_Type,Biphasic,Organic_Solvent,AO_Ratio,NaCl_wt,Yield_pct,Conv_pct,Select_pct,Humin_pct
+Hua et al. [24],Xylose,10.0,200.0,180.0,1.6,None,0.0,0.0,Water,0,None,0.0,0.0,50.0,92.0,54.3,38.0
+Hua et al. [24],Xylose,10.0,200.0,180.0,1.6,None,0.0,0.0,Biphasic,1,Toluene,1.0,0.0,75.0,95.0,78.9,16.0
+Hua et al. [24],Xylose,40.0,200.0,180.0,1.6,None,0.0,0.0,Biphasic,1,Toluene,1.0,0.0,50.0,72.0,69.4,22.0
+Kim et al. [25],Xylose,3.0,200.0,60.0,3.0,None,0.0,0.0,Water,0,None,0.0,0.0,55.0,65.0,84.6,10.0
+Kim et al. [25],Xylose,3.0,200.0,30.0,3.0,None,0.0,0.0,Water,0,None,0.0,0.0,37.0,60.0,61.7,23.0
+Jing et al. [26],Xylose,0.5,180.0,125.0,10.0,None,0.0,0.0,Water,0,None,0.0,0.0,30.0,40.0,75.0,10.0
+Jing et al. [26],Xylose,0.5,200.0,75.0,10.0,None,0.0,0.0,Water,0,None,0.0,0.0,40.0,80.0,50.0,40.0
+Jing et al. [26],Xylose,0.5,220.0,50.0,10.0,None,0.0,0.0,Water,0,None,0.0,0.0,50.0,98.0,51.0,48.0
+Xie et al. [33],Biomass-Poplar,5.0,150.0,60.0,1.5,Bronsted,50.0,1.0,Water,0,None,0.0,0.0,22.0,35.0,62.9,13.0
+Xie et al. [33],Biomass-Poplar,5.0,160.0,45.0,1.5,Bronsted,50.0,1.0,Water,0,None,0.0,0.0,38.0,52.0,73.1,14.0
+Xie et al. [33],Biomass-Poplar,5.0,170.0,30.0,1.5,Bronsted,50.0,1.0,Water,0,None,0.0,0.0,48.0,68.0,70.6,20.0
+Xie et al. [33],Biomass-Poplar,5.0,170.0,60.0,1.5,Bronsted,50.0,1.0,Water,0,None,0.0,0.0,56.0,78.0,71.8,22.0
+Xie et al. [33],Biomass-Poplar,5.0,180.0,20.0,1.5,Bronsted,50.0,1.0,Water,0,None,0.0,0.0,58.0,85.0,68.2,27.0
+Xie et al. [33],Biomass-Poplar,5.0,180.0,40.0,1.5,Bronsted,50.0,1.0,Water,0,None,0.0,0.0,51.0,92.0,55.4,41.0
+Agirrezabal-Telleria et al. [42],Xylose,5.0,160.0,120.0,2.0,Solid_Acid,30.0,1.0,Biphasic,1,MIBK,1.0,10.0,58.0,72.0,80.6,14.0
+Agirrezabal-Telleria et al. [42],Xylose,5.0,175.0,90.0,2.0,Solid_Acid,30.0,1.0,Biphasic,1,MIBK,1.0,10.0,72.0,88.0,81.8,16.0
+Agirrezabal-Telleria et al. [42],Xylose,5.0,175.0,180.0,2.0,Solid_Acid,30.0,1.0,Biphasic,1,MIBK,1.0,10.0,82.0,95.0,86.3,13.0
+Agirrezabal-Telleria et al. [42],Xylose,5.0,190.0,60.0,2.0,Solid_Acid,30.0,1.0,Biphasic,1,MIBK,1.0,10.0,76.0,96.0,79.2,20.0
+Agirrezabal-Telleria et al. [42],Xylose,5.0,190.0,120.0,2.0,Solid_Acid,30.0,1.0,Biphasic,1,MIBK,1.0,10.0,68.0,99.0,68.7,31.0
+Liu et al. [46],Xylose,4.0,160.0,40.0,1.8,Lewis,10.0,0.0,Water,0,None,0.0,0.0,42.0,65.0,64.6,23.0
+Liu et al. [46],Xylose,4.0,160.0,60.0,1.8,Lewis,20.0,0.0,Water,0,None,0.0,0.0,55.0,80.0,68.8,25.0
+Liu et al. [46],Xylose,4.0,180.0,20.0,1.8,Lewis,10.0,0.0,Water,0,None,0.0,0.0,62.0,88.0,70.5,26.0
+Liu et al. [46],Xylose,4.0,180.0,40.0,1.8,Lewis,20.0,0.0,Water,0,None,0.0,0.0,68.0,95.0,71.6,27.0
+Liu et al. [46],Xylose,4.0,180.0,60.0,1.8,Lewis,30.0,0.0,Water,0,None,0.0,0.0,58.0,98.0,59.2,40.0
+Xu et al. [18],Xylose,1.0,140.0,90.0,1.5,BL_Mixture,25.0,0.5,Biphasic,1,THF,0.33,35.0,52.0,70.0,74.3,18.0
+Xu et al. [18],Xylose,1.0,150.0,60.0,1.5,BL_Mixture,25.0,1.0,Biphasic,1,THF,0.33,35.0,68.0,84.0,81.0,16.0
+Xu et al. [18],Xylose,1.0,160.0,60.0,1.5,BL_Mixture,25.0,2.0,Biphasic,1,THF,0.33,35.0,78.0,92.0,84.8,14.0
+Xu et al. [18],Xylose,1.0,160.0,90.0,1.5,BL_Mixture,25.0,3.0,Biphasic,1,THF,0.33,35.0,81.0,96.0,84.4,15.0
+Xu et al. [18],Xylose,1.0,170.0,45.0,1.5,BL_Mixture,25.0,2.0,Biphasic,1,THF,0.33,35.0,74.0,95.0,77.9,21.0
+Choudhary et al. [55],Xylose,1.0,140.0,120.0,1.2,BL_Mixture,40.0,0.0,Water,0,None,0.0,0.0,35.0,50.0,70.0,15.0
+Choudhary et al. [55],Xylose,1.0,145.0,180.0,1.2,BL_Mixture,40.0,0.5,Water,0,None,0.0,0.0,62.0,75.0,82.7,13.0
+Choudhary et al. [55],Xylose,1.0,145.0,180.0,1.2,BL_Mixture,40.0,1.0,Water,0,None,0.0,0.0,76.0,89.0,85.4,13.0
+Choudhary et al. [55],Xylose,1.0,145.0,180.0,1.2,BL_Mixture,40.0,2.0,Water,0,None,0.0,0.0,84.0,96.0,87.5,12.0
+Choudhary et al. [55],Xylose,1.0,160.0,90.0,1.2,BL_Mixture,40.0,1.5,Water,0,None,0.0,0.0,79.0,97.0,81.4,18.0
+Hu et al. [56],Xylose,8.0,160.0,120.0,2.0,Solid_Acid,50.0,1.0,Monophasic_Organic,0,Water,0.0,0.0,42.0,88.0,47.7,46.0
+Hu et al. [56],Xylose,8.0,160.0,120.0,2.0,Solid_Acid,50.0,1.0,Monophasic_Organic,0,Methanol,0.0,0.0,51.0,86.0,59.3,35.0
+Hu et al. [56],Xylose,8.0,160.0,120.0,2.0,Solid_Acid,50.0,1.0,Monophasic_Organic,0,Ethanol,0.0,0.0,55.0,89.0,61.8,34.0
+Hu et al. [56],Xylose,8.0,160.0,120.0,2.0,Solid_Acid,50.0,1.0,Monophasic_Organic,0,Isopropanol,0.0,0.0,63.0,91.0,69.2,28.0
+Hu et al. [56],Xylose,8.0,160.0,120.0,2.0,Solid_Acid,50.0,1.0,Monophasic_Organic,0,GVL,0.0,0.0,71.0,94.0,75.5,23.0
+Hu et al. [56],Xylose,8.0,160.0,120.0,2.0,Solid_Acid,50.0,1.0,Monophasic_Organic,0,DMSO,0.0,0.0,66.0,95.0,69.5,29.0
+Hu et al. [56],Xylose,8.0,160.0,120.0,2.0,Solid_Acid,50.0,1.0,Monophasic_Organic,0,THF,0.0,0.0,68.0,93.0,73.1,25.0
+Hu et al. [56],Xylose,8.0,160.0,120.0,2.0,Solid_Acid,50.0,1.0,Monophasic_Organic,0,"1,4-Dioxane",0.0,0.0,69.0,92.0,75.0,23.0
+Claude et al. [71],Xylose,3.75,170.0,90.0,1.8,Solid_Acid,35.0,1.0,Biphasic,1,MIBK,1.0,0.0,64.0,85.0,75.3,21.0
+Claude et al. [71],Xylose,3.75,170.0,90.0,1.8,Solid_Acid,35.0,1.0,Biphasic,1,MIBK,0.5,0.0,72.0,90.0,80.0,18.0
+Claude et al. [71],Xylose,3.75,170.0,90.0,1.8,Solid_Acid,35.0,1.0,Biphasic,1,MIBK,0.33,0.0,78.0,94.0,83.0,16.0
+Claude et al. [71],Xylose,3.75,170.0,90.0,1.8,Solid_Acid,35.0,1.0,Biphasic,1,MIBK,0.33,15.0,86.0,97.0,88.7,11.0
+Claude et al. [71],Xylose,3.75,170.0,90.0,1.8,Solid_Acid,35.0,1.0,Biphasic,1,Toluene,1.0,0.0,58.0,82.0,70.7,24.0
+Claude et al. [71],Xylose,3.75,170.0,90.0,1.8,Solid_Acid,35.0,1.0,Biphasic,1,Toluene,0.33,0.0,69.0,89.0,77.5,20.0
+Claude et al. [71],Xylose,3.75,170.0,90.0,1.8,Solid_Acid,35.0,1.0,Biphasic,1,2-MeTHF,0.33,10.0,83.0,96.0,86.5,13.0
+Claude et al. [71],Xylose,3.75,170.0,90.0,1.8,Solid_Acid,35.0,1.0,Biphasic,1,GVL/Water,0.2,0.0,85.0,98.0,86.7,13.0
+Meta-Literature [Dataset-Exp 1],Biomass-Derived,4.66,202.4,182.3,2.11,Lewis,21.1,0.13,Biphasic,1,Toluene,0.5,5.0,64.8,99.5,65.2,34.7
+Meta-Literature [Dataset-Exp 2],Biomass-Derived,7.21,186.0,56.8,2.05,None,0.0,0.0,Water,0,None,0.0,0.0,14.9,37.5,39.7,22.6
+Meta-Literature [Dataset-Exp 3],Biomass-Derived,2.14,159.1,60.9,1.66,Solid_Acid,12.6,1.0,Water,0,None,0.0,0.0,6.2,16.3,37.8,10.2
+Meta-Literature [Dataset-Exp 4],Xylose,0.48,200.9,235.3,1.99,BL_Mixture,34.1,1.15,Biphasic,1,MIBK,0.33,10.0,72.1,99.3,72.6,27.2
+Meta-Literature [Dataset-Exp 5],Xylose,10.04,170.8,238.3,1.72,Solid_Acid,20.9,1.0,Monophasic_Organic,0,GVL,0.0,0.0,43.7,83.4,52.4,39.7
+Meta-Literature [Dataset-Exp 6],Xylose,9.85,218.4,85.7,2.23,None,0.0,0.0,Biphasic,1,2-MeTHF,0.33,15.0,68.3,99.3,68.7,31.0
+Meta-Literature [Dataset-Exp 7],Xylose,14.85,201.2,63.6,2.17,None,0.0,0.0,Monophasic_Organic,0,DES,0.0,0.0,37.3,75.0,49.7,37.7
+Meta-Literature [Dataset-Exp 8],Xylose,0.52,139.1,182.1,1.38,Lewis,29.9,0.08,Water,0,None,0.0,0.0,7.2,20.0,36.1,12.8
+Meta-Literature [Dataset-Exp 9],Xylose,4.35,173.3,181.0,1.85,Lewis,10.6,0.28,Biphasic,1,Toluene,0.5,5.0,46.9,72.8,64.5,25.8
+Meta-Literature [Dataset-Exp 10],Xylose,10.79,173.1,43.2,1.88,None,0.0,0.0,Water,0,None,0.0,0.0,5.5,17.3,31.9,11.8
+Meta-Literature [Dataset-Exp 11],Xylose,5.19,197.3,44.2,1.8,Bronsted,27.1,3.35,Biphasic,1,2-MeTHF,0.33,15.0,54.1,79.5,68.1,25.4
+Meta-Literature [Dataset-Exp 12],Biomass-Derived,0.46,168.0,180.0,1.59,None,0.0,0.0,Biphasic,1,Toluene,0.5,5.0,31.5,45.6,68.9,14.2
+Meta-Literature [Dataset-Exp 13],Xylose,7.59,141.1,116.4,1.37,BL_Mixture,31.6,1.21,Biphasic,1,Toluene,0.5,5.0,13.8,23.3,59.4,9.4
+Meta-Literature [Dataset-Exp 14],Biomass-Derived,2.04,137.2,41.9,1.45,Lewis,5.6,0.18,Biphasic,1,2-MeTHF,0.33,15.0,5.0,15.0,33.3,10.0
+Meta-Literature [Dataset-Exp 15],Xylose,18.45,203.5,16.8,2.23,Bronsted,26.0,3.4,Biphasic,1,Toluene,0.5,5.0,33.3,54.9,60.7,21.6
+Meta-Literature [Dataset-Exp 16],Biomass-Derived,19.4,183.2,41.9,1.99,Lewis,36.0,0.24,Biphasic,1,2-MeTHF,0.33,15.0,39.0,60.0,65.0,21.0
+Meta-Literature [Dataset-Exp 17],Xylose,2.19,170.6,236.0,1.6,Bronsted,48.4,7.54,Monophasic_Organic,0,DES,0.0,0.0,52.5,91.7,57.3,39.2
+Meta-Literature [Dataset-Exp 18],Xylose,10.44,177.4,241.5,1.81,None,0.0,0.0,Biphasic,1,2-MeTHF,0.33,15.0,50.5,78.9,64.0,28.4
+Meta-Literature [Dataset-Exp 19],Xylose,0.97,189.1,124.1,1.89,None,0.0,0.0,Biphasic,1,2-MeTHF,0.33,15.0,54.6,75.9,72.0,21.3
+Meta-Literature [Dataset-Exp 20],Xylose,5.38,166.2,10.4,1.49,BL_Mixture,57.9,1.36,Water,0,None,0.0,0.0,6.0,20.2,29.8,14.1
+Meta-Literature [Dataset-Exp 21],Xylose,1.01,177.5,13.2,1.87,Bronsted,49.9,2.78,Biphasic,1,Toluene,0.5,5.0,13.1,20.7,63.5,7.6
+Meta-Literature [Dataset-Exp 22],Xylose,9.84,137.1,118.6,1.18,Bronsted,52.8,2.65,Water,0,None,0.0,0.0,5.0,15.4,32.4,10.4
+Meta-Literature [Dataset-Exp 23],Biomass-Derived,1.99,146.8,181.7,1.48,Solid_Acid,33.6,1.0,Monophasic_Organic,0,DES,0.0,0.0,18.1,33.4,54.3,15.2
+Meta-Literature [Dataset-Exp 24],Xylose,4.27,178.2,61.2,1.69,BL_Mixture,39.3,1.88,Monophasic_Organic,0,DES,0.0,0.0,44.0,76.7,57.4,32.7
+Meta-Literature [Dataset-Exp 25],Biomass-Derived,9.86,198.0,34.6,1.85,BL_Mixture,17.6,2.36,Monophasic_Organic,0,GVL,0.0,0.0,39.0,70.0,55.6,31.1
+Meta-Literature [Dataset-Exp 26],Biomass-Derived,5.11,181.1,92.4,1.65,Lewis,24.8,0.09,Biphasic,1,2-MeTHF,0.33,15.0,52.5,76.7,68.5,24.1
+Meta-Literature [Dataset-Exp 27],Xylose,4.97,167.4,236.0,1.73,None,0.0,0.0,Monophasic_Organic,0,DES,0.0,0.0,27.5,50.7,54.2,23.2
+Meta-Literature [Dataset-Exp 28],Xylose,0.5,148.1,31.3,1.55,Solid_Acid,34.6,1.0,Biphasic,1,2-MeTHF,0.33,15.0,5.3,15.0,35.5,9.7
+Meta-Literature [Dataset-Exp 29],Xylose,5.13,161.1,18.1,1.5,None,0.0,0.0,Water,0,None,0.0,0.0,5.0,15.0,33.3,10.0
+Meta-Literature [Dataset-Exp 30],Xylose,0.52,146.3,31.8,1.54,Solid_Acid,37.3,1.0,Biphasic,1,MIBK,0.33,10.0,5.0,15.0,33.3,10.0
+Meta-Literature [Dataset-Exp 31],Xylose,21.21,151.0,85.4,1.71,None,0.0,0.0,Biphasic,1,2-MeTHF,0.33,15.0,5.6,15.0,37.2,9.4
+Meta-Literature [Dataset-Exp 32],Biomass-Derived,10.86,169.0,180.8,1.85,Solid_Acid,27.2,1.0,Biphasic,1,2-MeTHF,0.33,15.0,51.0,77.5,65.8,26.5
+Meta-Literature [Dataset-Exp 33],Xylose,1.96,172.6,118.0,1.76,BL_Mixture,55.7,0.96,Monophasic_Organic,0,GVL,0.0,0.0,50.2,91.0,55.1,40.8
+Meta-Literature [Dataset-Exp 34],Xylose,5.25,176.7,58.3,1.95,None,0.0,0.0,Monophasic_Organic,0,GVL,0.0,0.0,15.7,28.3,55.5,12.6
+Meta-Literature [Dataset-Exp 35],Xylose,7.33,222.1,63.7,2.37,Solid_Acid,25.9,1.0,Biphasic,1,MIBK,0.33,10.0,70.7,97.6,72.5,26.9
+Meta-Literature [Dataset-Exp 36],Biomass-Derived,3.88,192.5,184.1,1.92,BL_Mixture,50.0,1.75,Biphasic,1,Toluene,0.5,5.0,65.5,99.5,65.9,34.0
+Meta-Literature [Dataset-Exp 37],Xylose,13.85,149.7,32.4,1.49,None,0.0,0.0,Water,0,None,0.0,0.0,5.0,15.0,33.3,10.0
+Meta-Literature [Dataset-Exp 38],Biomass-Derived,4.54,222.9,119.4,2.1,Solid_Acid,46.8,1.0,Biphasic,1,Toluene,0.5,5.0,66.7,99.5,67.0,32.8
+Meta-Literature [Dataset-Exp 39],Xylose,8.13,141.6,185.0,1.33,None,0.0,0.0,Biphasic,1,Toluene,0.5,5.0,6.6,15.0,43.8,8.4
+Meta-Literature [Dataset-Exp 40],Xylose,5.47,169.7,27.3,1.55,Lewis,6.1,0.12,Monophasic_Organic,0,DES,0.0,0.0,6.4,15.1,42.2,8.7
+Meta-Literature [Dataset-Exp 41],Xylose,5.11,162.6,29.2,1.49,Bronsted,75.3,8.93,Biphasic,1,MIBK,0.33,10.0,16.1,26.7,60.2,10.6
+Meta-Literature [Dataset-Exp 42],Xylose,0.53,182.0,19.7,2.0,Bronsted,39.0,4.19,Water,0,None,0.0,0.0,12.3,31.5,39.2,19.2
+Meta-Literature [Dataset-Exp 43],Xylose,0.55,158.0,117.1,1.43,Solid_Acid,19.1,1.0,Biphasic,1,2-MeTHF,0.33,15.0,23.9,34.8,68.8,10.9
+Meta-Literature [Dataset-Exp 44],Biomass-Derived,0.51,149.8,45.2,1.6,Solid_Acid,45.1,1.0,Monophasic_Organic,0,DES,0.0,0.0,7.5,15.0,49.7,7.5
+Meta-Literature [Dataset-Exp 45],Xylose,8.19,181.1,42.1,1.83,Bronsted,52.6,7.09,Monophasic_Organic,0,DES,0.0,0.0,32.3,59.4,54.4,27.1
+Meta-Literature [Dataset-Exp 46],Biomass-Derived,2.08,142.3,58.0,1.24,Solid_Acid,28.4,1.0,Biphasic,1,2-MeTHF,0.33,15.0,5.8,15.0,38.6,9.2
+Meta-Literature [Dataset-Exp 47],Xylose,2.01,189.9,87.1,1.91,Lewis,29.4,0.1,Monophasic_Organic,0,DES,0.0,0.0,55.4,90.5,61.2,35.1
+Meta-Literature [Dataset-Exp 48],Xylose,4.85,150.8,40.4,1.36,Bronsted,12.2,6.39,Monophasic_Organic,0,GVL,0.0,0.0,5.0,15.0,33.3,10.0
+Meta-Literature [Dataset-Exp 49],Biomass-Derived,16.12,216.7,181.3,2.05,Solid_Acid,21.1,1.0,Water,0,None,0.0,0.0,35.5,99.5,35.7,64.0
+Meta-Literature [Dataset-Exp 50],Xylose,15.66,209.9,32.6,1.91,Bronsted,20.3,3.06,Monophasic_Organic,0,DES,0.0,0.0,45.4,86.2,52.7,40.8
+Meta-Literature [Dataset-Exp 51],Xylose,20.95,149.6,44.0,1.43,BL_Mixture,40.4,2.23,Biphasic,1,MIBK,0.33,10.0,8.6,15.8,54.2,7.2
+Meta-Literature [Dataset-Exp 52],Xylose,0.92,221.4,46.5,2.11,Bronsted,49.5,5.03,Water,0,None,0.0,0.0,43.4,99.5,43.7,56.1
+Meta-Literature [Dataset-Exp 53],Xylose,4.65,190.8,10.1,2.1,BL_Mixture,23.4,1.28,Monophasic_Organic,0,DES,0.0,0.0,16.7,30.4,55.0,13.7
+Meta-Literature [Dataset-Exp 54],Xylose,8.76,189.2,64.2,1.77,Lewis,37.5,0.19,Monophasic_Organic,0,DES,0.0,0.0,47.5,84.6,56.2,37.1
+Meta-Literature [Dataset-Exp 55],Xylose,0.5,191.7,60.1,2.09,None,0.0,0.0,Biphasic,1,MIBK,0.33,10.0,38.0,52.9,71.8,15.0
+Meta-Literature [Dataset-Exp 56],Xylose,4.56,156.4,29.5,1.6,BL_Mixture,29.5,2.18,Biphasic,1,MIBK,0.33,10.0,10.0,17.1,58.3,7.1
+Meta-Literature [Dataset-Exp 57],Xylose,0.54,210.8,43.5,1.93,BL_Mixture,33.4,2.39,Biphasic,1,2-MeTHF,0.33,15.0,73.4,99.5,73.8,26.1
+Meta-Literature [Dataset-Exp 58],Xylose,1.87,212.6,87.0,2.08,Solid_Acid,36.6,1.0,Biphasic,1,Toluene,0.5,5.0,69.6,96.7,72.0,27.0
+Meta-Literature [Dataset-Exp 59],Xylose,2.05,209.6,238.8,2.11,None,0.0,0.0,Water,0,None,0.0,0.0,41.4,99.5,41.6,58.1
+Meta-Literature [Dataset-Exp 60],Xylose,7.73,207.8,176.2,2.19,Lewis,9.9,0.25,Biphasic,1,MIBK,0.33,10.0,73.2,99.5,73.6,26.3
+Meta-Literature [Dataset-Exp 61],Xylose,9.29,192.0,87.5,1.87,BL_Mixture,47.1,1.64,Monophasic_Organic,0,DES,0.0,0.0,54.0,99.0,54.6,45.0
+Meta-Literature [Dataset-Exp 62],Xylose,4.99,210.8,183.0,2.15,BL_Mixture,49.7,0.82,Biphasic,1,2-MeTHF,0.33,15.0,76.3,99.5,76.7,23.2
+Meta-Literature [Dataset-Exp 63],Xylose,7.84,167.5,28.4,1.52,Bronsted,53.0,9.29,Monophasic_Organic,0,DES,0.0,0.0,12.6,26.5,47.6,13.9
+Meta-Literature [Dataset-Exp 64],Xylose,0.51,172.3,92.1,1.86,Bronsted,39.7,7.89,Water,0,None,0.0,0.0,24.3,63.0,38.6,38.7
+Meta-Literature [Dataset-Exp 65],Xylose,9.45,192.7,18.7,1.77,Solid_Acid,39.8,1.0,Water,0,None,0.0,0.0,17.4,51.1,34.0,33.7
+Meta-Literature [Dataset-Exp 66],Biomass-Derived,9.69,170.3,49.2,1.7,Bronsted,41.7,3.8,Biphasic,1,Toluene,0.5,5.0,23.8,38.1,62.4,14.3
+Meta-Literature [Dataset-Exp 67],Xylose,7.55,186.3,13.6,1.88,Bronsted,46.1,9.8,Monophasic_Organic,0,GVL,0.0,0.0,15.9,34.1,46.6,18.2
+Meta-Literature [Dataset-Exp 68],Xylose,9.85,210.0,13.1,1.93,Lewis,12.2,0.1,Monophasic_Organic,0,DES,0.0,0.0,27.1,49.2,55.0,22.1
+Meta-Literature [Dataset-Exp 69],Xylose,0.49,159.6,30.3,1.65,Lewis,11.4,0.27,Biphasic,1,2-MeTHF,0.33,15.0,6.5,15.0,43.6,8.5
+Meta-Literature [Dataset-Exp 70],Xylose,10.32,136.2,63.4,1.17,None,0.0,0.0,Water,0,None,0.0,0.0,5.0,15.0,33.3,10.0
+Meta-Literature [Dataset-Exp 71],Xylose,0.51,188.7,86.8,1.95,Bronsted,27.0,7.78,Biphasic,1,Toluene,0.5,5.0,58.1,86.1,67.5,28.0
+Meta-Literature [Dataset-Exp 72],Xylose,10.27,179.3,184.0,1.92,None,0.0,0.0,Monophasic_Organic,0,GVL,0.0,0.0,37.5,66.9,56.0,29.4
+Meta-Literature [Dataset-Exp 73],Xylose,9.07,168.7,178.8,1.88,BL_Mixture,30.5,2.12,Monophasic_Organic,0,GVL,0.0,0.0,45.0,90.8,49.5,45.9
+Meta-Literature [Dataset-Exp 74],Xylose,10.6,206.9,119.9,1.92,None,0.0,0.0,Biphasic,1,MIBK,0.33,10.0,66.4,99.5,66.7,33.1
+Meta-Literature [Dataset-Exp 75],Xylose,10.37,167.1,86.7,1.76,Bronsted,67.1,5.98,Monophasic_Organic,0,GVL,0.0,0.0,31.3,63.8,49.1,32.5
+Meta-Literature [Dataset-Exp 76],Xylose,8.37,176.1,87.6,1.87,Bronsted,54.3,5.95,Biphasic,1,2-MeTHF,0.33,15.0,52.7,79.4,66.4,26.7
+Meta-Literature [Dataset-Exp 77],Xylose,5.1,147.3,41.8,1.5,Bronsted,37.3,4.31,Monophasic_Organic,0,GVL,0.0,0.0,5.0,15.0,33.3,10.0
+Meta-Literature [Dataset-Exp 78],Xylose,4.98,149.2,244.4,1.35,Bronsted,47.8,3.3,Biphasic,1,2-MeTHF,0.33,15.0,35.2,53.5,65.7,18.4
+Meta-Literature [Dataset-Exp 79],Xylose,15.68,222.2,88.4,2.35,None,0.0,0.0,Monophasic_Organic,0,GVL,0.0,0.0,56.5,98.4,57.4,41.9
+Meta-Literature [Dataset-Exp 80],Biomass-Derived,0.92,176.0,42.7,1.94,Solid_Acid,42.3,1.0,Biphasic,1,2-MeTHF,0.33,15.0,36.4,49.0,74.3,12.6
+Meta-Literature [Dataset-Exp 81],Xylose,5.19,161.9,92.6,1.8,None,0.0,0.0,Biphasic,1,MIBK,0.33,10.0,12.7,17.2,73.7,4.5
+Meta-Literature [Dataset-Exp 82],Xylose,9.07,204.0,30.7,2.14,Solid_Acid,17.7,1.0,Water,0,None,0.0,0.0,26.2,72.9,36.0,46.6
+Meta-Literature [Dataset-Exp 83],Xylose,9.07,172.8,30.2,1.55,Lewis,9.2,0.07,Biphasic,1,2-MeTHF,0.33,15.0,12.3,16.3,75.6,4.0
+Meta-Literature [Dataset-Exp 84],Xylose,1.0,210.3,91.6,1.9,Solid_Acid,45.1,1.0,Biphasic,1,MIBK,0.33,10.0,68.0,98.3,69.2,30.3
+Meta-Literature [Dataset-Exp 85],Xylose,3.64,153.5,40.7,1.44,None,0.0,0.0,Monophasic_Organic,0,GVL,0.0,0.0,5.0,15.0,33.3,10.0
+Meta-Literature [Dataset-Exp 86],Xylose,4.19,222.1,13.4,2.31,None,0.0,0.0,Biphasic,1,Toluene,0.5,5.0,36.5,50.8,71.9,14.3
+Meta-Literature [Dataset-Exp 87],Xylose,18.44,176.3,19.1,1.75,None,0.0,0.0,Biphasic,1,2-MeTHF,0.33,15.0,6.2,15.0,41.5,8.8
+Meta-Literature [Dataset-Exp 88],Xylose,16.33,147.3,55.6,1.35,Solid_Acid,30.5,1.0,Biphasic,1,Toluene,0.5,5.0,6.2,15.0,41.2,8.8
+Meta-Literature [Dataset-Exp 89],Xylose,10.77,162.6,85.6,1.49,Lewis,39.8,0.09,Biphasic,1,2-MeTHF,0.33,15.0,29.7,48.8,60.9,19.1
+Meta-Literature [Dataset-Exp 90],Xylose,20.37,157.8,242.5,1.4,Solid_Acid,28.3,1.0,Biphasic,1,MIBK,0.33,10.0,35.8,61.3,58.4,25.5
+Meta-Literature [Dataset-Exp 91],Xylose,20.2,152.9,13.3,1.36,Lewis,19.3,0.14,Biphasic,1,MIBK,0.33,10.0,5.0,15.0,33.3,10.0
+Meta-Literature [Dataset-Exp 92],Xylose,2.13,183.9,30.0,1.7,Bronsted,70.5,7.87,Biphasic,1,Toluene,0.5,5.0,40.5,63.2,64.2,22.6
+Meta-Literature [Dataset-Exp 93],Xylose,4.09,218.7,92.0,2.05,BL_Mixture,54.6,2.28,Monophasic_Organic,0,GVL,0.0,0.0,58.7,99.4,59.0,40.7
+Meta-Literature [Dataset-Exp 94],Xylose,9.39,170.4,90.1,1.51,Solid_Acid,23.1,1.0,Monophasic_Organic,0,DES,0.0,0.0,26.1,49.7,52.6,23.5
+Meta-Literature [Dataset-Exp 95],Xylose,21.85,157.0,47.6,1.75,BL_Mixture,23.1,2.08,Biphasic,1,2-MeTHF,0.33,15.0,13.0,20.8,62.2,7.9
+Meta-Literature [Dataset-Exp 96],Biomass-Derived,0.46,142.2,15.8,1.23,Lewis,35.5,0.29,Biphasic,1,MIBK,0.33,10.0,5.0,15.0,33.3,10.0
+Meta-Literature [Dataset-Exp 97],Xylose,9.89,189.0,242.7,1.81,Bronsted,76.1,2.82,Monophasic_Organic,0,GVL,0.0,0.0,54.8,99.5,55.0,44.7
+Meta-Literature [Dataset-Exp 98],Xylose,2.18,152.2,61.5,1.45,BL_Mixture,47.9,2.35,Biphasic,1,2-MeTHF,0.33,15.0,19.2,26.8,71.8,7.6
+Meta-Literature [Dataset-Exp 99],Xylose,0.52,187.8,87.0,2.02,BL_Mixture,53.9,1.6,Biphasic,1,MIBK,0.33,10.0,71.0,99.5,71.4,28.5
+Meta-Literature [Dataset-Exp 100],Xylose,5.41,166.1,86.3,1.55,Bronsted,23.0,5.7,Biphasic,1,Toluene,0.5,5.0,24.8,37.3,66.3,12.6
+Meta-Literature [Dataset-Exp 101],Xylose,14.43,190.7,90.9,1.95,Solid_Acid,10.5,1.0,Water,0,None,0.0,0.0,25.5,79.6,32.1,54.1
+Meta-Literature [Dataset-Exp 102],Biomass-Derived,8.4,222.9,124.1,2.22,None,0.0,0.0,Water,0,None,0.0,0.0,38.4,99.5,38.6,61.1
+Meta-Literature [Dataset-Exp 103],Biomass-Derived,0.5,168.8,235.1,1.65,None,0.0,0.0,Water,0,None,0.0,0.0,21.0,56.1,37.5,35.0
+Meta-Literature [Dataset-Exp 104],Xylose,1.06,153.8,31.9,1.62,Bronsted,17.3,7.09,Biphasic,1,2-MeTHF,0.33,15.0,5.1,15.0,34.3,9.9
+Meta-Literature [Dataset-Exp 105],Biomass-Derived,4.04,168.7,44.8,1.51,Bronsted,41.7,7.15,Monophasic_Organic,0,DES,0.0,0.0,18.6,37.0,50.2,18.4
+Meta-Literature [Dataset-Exp 106],Xylose,2.19,201.2,18.7,2.1,BL_Mixture,23.2,2.14,Monophasic_Organic,0,GVL,0.0,0.0,42.6,68.1,62.5,25.5
+Meta-Literature [Dataset-Exp 107],Biomass-Derived,1.83,188.7,244.7,2.07,Lewis,12.7,0.15,Biphasic,1,Toluene,0.5,5.0,64.9,99.4,65.3,34.5
+Meta-Literature [Dataset-Exp 108],Xylose,4.0,209.4,62.4,2.13,Bronsted,46.0,6.7,Water,0,None,0.0,0.0,39.8,99.5,40.0,59.7
+Meta-Literature [Dataset-Exp 109],Xylose,7.77,169.4,34.9,1.73,Lewis,21.3,0.26,Monophasic_Organic,0,GVL,0.0,0.0,11.8,24.4,48.3,12.6
+Meta-Literature [Dataset-Exp 110],Biomass-Derived,18.99,147.4,85.7,1.43,BL_Mixture,35.0,1.68,Monophasic_Organic,0,GVL,0.0,0.0,11.2,29.3,38.2,18.1
+Meta-Literature [Dataset-Exp 111],Xylose,0.53,219.2,46.6,2.17,BL_Mixture,25.7,1.2,Monophasic_Organic,0,GVL,0.0,0.0,63.8,99.5,64.2,35.7
+Meta-Literature [Dataset-Exp 112],Xylose,0.48,219.4,60.9,2.32,BL_Mixture,16.7,2.05,Biphasic,1,2-MeTHF,0.33,15.0,79.4,99.5,79.8,20.1
+Meta-Literature [Dataset-Exp 113],Biomass-Derived,0.92,187.6,85.3,1.71,Solid_Acid,12.1,1.0,Biphasic,1,2-MeTHF,0.33,15.0,54.3,72.1,75.4,17.7
+Meta-Literature [Dataset-Exp 114],Xylose,4.39,140.1,121.9,1.41,Lewis,5.6,0.13,Biphasic,1,Toluene,0.5,5.0,5.2,15.0,34.5,9.8
+Meta-Literature [Dataset-Exp 115],Xylose,4.16,201.3,56.3,2.16,Bronsted,57.1,9.76,Biphasic,1,2-MeTHF,0.33,15.0,69.3,98.3,70.5,29.0
+Meta-Literature [Dataset-Exp 116],Xylose,0.95,188.0,18.4,1.94,Bronsted,12.1,9.45,Water,0,None,0.0,0.0,10.1,26.4,38.3,16.3
+Meta-Literature [Dataset-Exp 117],Xylose,1.1,181.3,11.1,1.84,None,0.0,0.0,Water,0,None,0.0,0.0,5.0,15.0,33.3,10.0
+Meta-Literature [Dataset-Exp 118],Xylose,4.13,216.9,29.0,2.23,Bronsted,71.5,4.54,Biphasic,1,MIBK,0.33,10.0,72.9,98.9,73.8,25.9
+Meta-Literature [Dataset-Exp 119],Biomass-Derived,4.88,178.6,61.1,1.82,Solid_Acid,33.9,1.0,Water,0,None,0.0,0.0,23.2,58.4,39.7,35.2
+Meta-Literature [Dataset-Exp 120],Xylose,19.52,211.3,32.6,2.15,Bronsted,43.5,2.21,Biphasic,1,MIBK,0.33,10.0,59.0,93.6,63.0,34.6
+Meta-Literature [Dataset-Exp 121],Xylose,1.04,170.9,240.5,1.59,Lewis,33.8,0.16,Monophasic_Organic,0,GVL,0.0,0.0,52.3,92.7,56.4,40.4
+Meta-Literature [Dataset-Exp 122],Xylose,4.78,187.6,119.9,1.78,Lewis,33.1,0.18,Monophasic_Organic,0,GVL,0.0,0.0,51.4,97.4,52.8,46.0
+Meta-Literature [Dataset-Exp 123],Xylose,10.05,172.6,116.8,1.68,None,0.0,0.0,Biphasic,1,MIBK,0.33,10.0,25.7,39.1,65.8,13.3
+Meta-Literature [Dataset-Exp 124],Xylose,21.17,201.1,93.8,1.93,Bronsted,35.3,9.25,Biphasic,1,MIBK,0.33,10.0,64.6,99.5,64.9,34.9
+Meta-Literature [Dataset-Exp 125],Xylose,18.38,212.6,61.7,2.01,BL_Mixture,35.3,1.8,Biphasic,1,MIBK,0.33,10.0,63.8,99.5,64.1,35.7
+Meta-Literature [Dataset-Exp 126],Biomass-Derived,10.09,137.4,91.4,1.45,Bronsted,37.4,6.76,Water,0,None,0.0,0.0,5.0,15.0,33.3,10.0
+Meta-Literature [Dataset-Exp 127],Biomass-Derived,0.45,159.5,92.2,1.43,BL_Mixture,19.7,2.03,Monophasic_Organic,0,DES,0.0,0.0,21.8,36.8,59.2,15.0
+Meta-Literature [Dataset-Exp 128],Xylose,7.77,140.8,13.2,1.56,BL_Mixture,38.4,0.91,Monophasic_Organic,0,GVL,0.0,0.0,5.0,15.0,33.3,10.0
+Meta-Literature [Dataset-Exp 129],Biomass-Derived,1.88,151.4,58.2,1.54,Bronsted,56.3,6.46,Biphasic,1,2-MeTHF,0.33,15.0,14.7,20.4,72.1,5.7
+Meta-Literature [Dataset-Exp 130],Xylose,18.68,173.7,91.9,1.58,Bronsted,39.6,8.57,Monophasic_Organic,0,DES,0.0,0.0,31.7,67.2,47.1,35.5
+Meta-Literature [Dataset-Exp 131],Biomass-Derived,15.12,157.2,92.4,1.67,None,0.0,0.0,Monophasic_Organic,0,DES,0.0,0.0,7.0,18.5,37.7,11.6
+Meta-Literature [Dataset-Exp 132],Xylose,0.91,140.9,62.8,1.41,BL_Mixture,25.2,1.38,Water,0,None,0.0,0.0,5.0,15.0,33.3,10.0
+Meta-Literature [Dataset-Exp 133],Xylose,1.0,159.2,184.4,1.44,Lewis,22.4,0.3,Monophasic_Organic,0,DES,0.0,0.0,29.8,53.5,55.6,23.8
+Meta-Literature [Dataset-Exp 134],Xylose,7.43,151.0,123.8,1.7,BL_Mixture,18.6,1.49,Monophasic_Organic,0,DES,0.0,0.0,15.2,32.5,46.7,17.3
+Meta-Literature [Dataset-Exp 135],Xylose,4.09,220.6,93.6,2.27,None,0.0,0.0,Monophasic_Organic,0,DES,0.0,0.0,59.6,99.5,59.9,39.9
+Meta-Literature [Dataset-Exp 136],Xylose,3.66,146.5,30.1,1.35,BL_Mixture,29.0,1.66,Biphasic,1,2-MeTHF,0.33,15.0,5.8,15.0,39.0,9.2
+Meta-Literature [Dataset-Exp 137],Xylose,5.28,151.2,43.9,1.41,Bronsted,14.1,9.96,Water,0,None,0.0,0.0,5.0,15.0,33.3,10.0
+Meta-Literature [Dataset-Exp 138],Xylose,1.87,156.6,58.0,1.62,BL_Mixture,37.9,2.49,Water,0,None,0.0,0.0,10.2,29.1,35.0,18.9
+Meta-Literature [Dataset-Exp 139],Biomass-Derived,1.95,189.4,182.9,1.8,BL_Mixture,52.2,2.05,Monophasic_Organic,0,DES,0.0,0.0,53.9,99.1,54.4,45.2
+Meta-Literature [Dataset-Exp 140],Xylose,5.33,197.1,181.2,1.97,Solid_Acid,18.0,1.0,Monophasic_Organic,0,GVL,0.0,0.0,55.4,97.5,56.8,42.1
+Meta-Literature [Dataset-Exp 141],Xylose,3.79,197.2,116.5,2.15,Bronsted,36.3,5.16,Biphasic,1,Toluene,0.5,5.0,65.5,99.5,65.8,34.0
+Meta-Literature [Dataset-Exp 142],Xylose,0.53,141.3,16.9,1.3,Bronsted,64.7,8.6,Biphasic,1,2-MeTHF,0.33,15.0,5.0,15.0,33.3,10.0
+Meta-Literature [Dataset-Exp 143],Xylose,5.24,136.5,243.8,1.21,None,0.0,0.0,Monophasic_Organic,0,GVL,0.0,0.0,5.3,15.0,35.2,9.7
+Meta-Literature [Dataset-Exp 144],Xylose,3.88,143.7,88.9,1.34,Lewis,11.5,0.09,Biphasic,1,Toluene,0.5,5.0,5.8,15.0,38.4,9.2
+Meta-Literature [Dataset-Exp 145],Biomass-Derived,15.81,186.7,244.7,1.91,None,0.0,0.0,Water,0,None,0.0,0.0,28.2,88.8,31.7,60.6
+Meta-Literature [Dataset-Exp 146],Xylose,0.96,221.2,29.8,2.26,BL_Mixture,36.3,0.99,Biphasic,1,2-MeTHF,0.33,15.0,74.8,99.5,75.2,24.7
+Meta-Literature [Dataset-Exp 147],Biomass-Derived,0.94,147.0,176.1,1.38,None,0.0,0.0,Biphasic,1,Toluene,0.5,5.0,9.5,15.0,63.6,5.5
+Meta-Literature [Dataset-Exp 148],Xylose,0.51,167.0,240.0,1.81,Lewis,33.6,0.27,Biphasic,1,MIBK,0.33,10.0,58.3,88.3,66.0,30.1
+Meta-Literature [Dataset-Exp 149],Biomass-Derived,8.41,210.5,181.6,2.18,None,0.0,0.0,Monophasic_Organic,0,DES,0.0,0.0,56.9,99.5,57.2,42.6
+Meta-Literature [Dataset-Exp 150],Xylose,10.68,172.5,179.9,1.75,Solid_Acid,31.7,1.0,Monophasic_Organic,0,DES,0.0,0.0,46.0,85.7,53.7,39.7
+Meta-Literature [Dataset-Exp 151],Xylose,14.88,200.6,17.6,1.89,None,0.0,0.0,Biphasic,1,2-MeTHF,0.33,15.0,19.6,29.5,66.5,9.9
+Meta-Literature [Dataset-Exp 152],Biomass-Derived,0.97,181.9,181.1,1.74,Solid_Acid,32.2,1.0,Water,0,None,0.0,0.0,36.3,94.1,38.6,57.8
+Meta-Literature [Dataset-Exp 153],Xylose,4.18,210.0,28.7,1.94,Lewis,18.7,0.15,Biphasic,1,MIBK,0.33,10.0,61.0,80.9,75.4,19.9
+Meta-Literature [Dataset-Exp 154],Xylose,13.81,203.0,91.4,2.16,Bronsted,49.2,6.83,Biphasic,1,2-MeTHF,0.33,15.0,68.9,99.5,69.3,30.6
+Meta-Literature [Dataset-Exp 155],Biomass-Derived,7.54,141.1,40.6,1.3,BL_Mixture,34.8,1.05,Biphasic,1,Toluene,0.5,5.0,5.2,15.0,34.3,9.8
+Meta-Literature [Dataset-Exp 156],Xylose,8.22,223.5,86.7,2.1,Lewis,39.7,0.24,Monophasic_Organic,0,DES,0.0,0.0,56.1,99.5,56.4,43.4
+Meta-Literature [Dataset-Exp 157],Xylose,0.54,140.7,117.7,1.4,Lewis,7.0,0.26,Monophasic_Organic,0,GVL,0.0,0.0,5.0,15.0,33.3,10.0
+Meta-Literature [Dataset-Exp 158],Xylose,3.64,179.7,92.1,1.65,Bronsted,40.6,7.84,Biphasic,1,Toluene,0.5,5.0,52.0,78.7,66.0,26.8
+Meta-Literature [Dataset-Exp 159],Xylose,13.67,171.3,55.1,1.85,BL_Mixture,27.4,2.14,Biphasic,1,Toluene,0.5,5.0,30.7,52.4,58.6,21.7
+Meta-Literature [Dataset-Exp 160],Xylose,4.1,186.5,93.5,1.96,Lewis,17.1,0.13,Water,0,None,0.0,0.0,30.5,80.9,37.7,50.4
+Meta-Literature [Dataset-Exp 161],Xylose,14.28,167.0,244.4,1.66,None,0.0,0.0,Monophasic_Organic,0,GVL,0.0,0.0,26.3,52.5,50.0,26.2
+Meta-Literature [Dataset-Exp 162],Xylose,18.09,223.6,58.5,2.43,Solid_Acid,26.7,1.0,Biphasic,1,2-MeTHF,0.33,15.0,67.3,99.5,67.6,32.2
+Meta-Literature [Dataset-Exp 163],Xylose,8.08,149.2,40.7,1.38,Bronsted,25.8,8.78,Monophasic_Organic,0,DES,0.0,0.0,5.0,15.0,33.3,10.0
+Meta-Literature [Dataset-Exp 164],Xylose,7.66,152.9,46.5,1.39,BL_Mixture,35.7,0.89,Biphasic,1,Toluene,0.5,5.0,11.0,17.5,62.7,6.5
+Meta-Literature [Dataset-Exp 165],Xylose,16.13,172.1,115.2,1.74,BL_Mixture,26.5,2.41,Biphasic,1,2-MeTHF,0.33,15.0,46.9,75.6,62.1,28.6
+Meta-Literature [Dataset-Exp 166],Biomass-Derived,4.24,209.7,237.8,1.93,BL_Mixture,32.9,0.96,Water,0,None,0.0,0.0,40.0,98.0,40.8,58.0
+Meta-Literature [Dataset-Exp 167],Xylose,19.58,220.6,88.1,2.37,Bronsted,41.3,6.46,Biphasic,1,MIBK,0.33,10.0,63.5,99.5,63.8,36.0
+Meta-Literature [Dataset-Exp 168],Xylose,16.18,210.1,57.0,2.3,BL_Mixture,29.1,2.16,Biphasic,1,Toluene,0.5,5.0,60.8,99.5,61.1,38.7
+Meta-Literature [Dataset-Exp 169],Xylose,4.4,197.0,121.3,2.13,Bronsted,21.4,2.1,Biphasic,1,Toluene,0.5,5.0,68.9,99.4,69.3,30.6
+Meta-Literature [Dataset-Exp 170],Xylose,4.33,183.8,63.6,1.84,Lewis,16.0,0.17,Biphasic,1,2-MeTHF,0.33,15.0,44.5,61.0,72.9,16.5
+Meta-Literature [Dataset-Exp 171],Biomass-Derived,4.61,163.0,116.7,1.68,Bronsted,60.3,5.36,Monophasic_Organic,0,DES,0.0,0.0,33.7,63.7,52.8,30.1
+Meta-Literature [Dataset-Exp 172],Biomass-Derived,1.81,201.0,122.4,2.15,Solid_Acid,23.0,1.0,Biphasic,1,MIBK,0.33,10.0,71.2,98.7,72.2,27.5
+Meta-Literature [Dataset-Exp 173],Xylose,2.08,142.7,175.8,1.39,None,0.0,0.0,Monophasic_Organic,0,DES,0.0,0.0,5.9,15.0,39.1,9.1
+Meta-Literature [Dataset-Exp 174],Xylose,21.15,173.5,57.3,1.63,Solid_Acid,36.0,1.0,Biphasic,1,MIBK,0.33,10.0,28.9,49.7,58.2,20.8
+Meta-Literature [Dataset-Exp 175],Xylose,3.61,180.4,44.1,1.93,Bronsted,29.6,8.87,Monophasic_Organic,0,DES,0.0,0.0,26.7,49.1,54.4,22.4
+Meta-Literature [Dataset-Exp 176],Xylose,10.07,173.9,122.3,1.54,Lewis,8.9,0.23,Biphasic,1,2-MeTHF,0.33,15.0,37.8,55.5,68.2,17.6
+Meta-Literature [Dataset-Exp 177],Xylose,1.89,208.3,121.0,2.28,None,0.0,0.0,Biphasic,1,2-MeTHF,0.33,15.0,73.2,96.7,75.7,23.5
+Meta-Literature [Dataset-Exp 178],Biomass-Derived,1.91,200.3,122.9,1.84,Bronsted,46.5,2.51,Monophasic_Organic,0,GVL,0.0,0.0,61.0,99.5,61.3,38.5
+Meta-Literature [Dataset-Exp 179],Xylose,0.45,221.4,10.6,2.26,BL_Mixture,34.6,2.12,Monophasic_Organic,0,DES,0.0,0.0,56.6,91.3,62.0,34.7
+Meta-Literature [Dataset-Exp 180],Xylose,4.14,159.6,17.0,1.5,BL_Mixture,25.5,2.14,Biphasic,1,2-MeTHF,0.33,15.0,6.7,15.0,44.5,8.3
+Meta-Literature [Dataset-Exp 181],Xylose,7.27,186.6,10.0,1.84,Lewis,21.4,0.16,Biphasic,1,2-MeTHF,0.33,15.0,12.4,21.6,57.3,9.2
+Meta-Literature [Dataset-Exp 182],Xylose,0.45,167.7,90.4,1.59,Lewis,8.8,0.13,Biphasic,1,2-MeTHF,0.33,15.0,25.5,35.5,72.0,10.0
+Meta-Literature [Dataset-Exp 183],Xylose,0.46,219.2,87.8,2.04,Lewis,22.8,0.27,Biphasic,1,Toluene,0.5,5.0,70.3,99.5,70.6,29.2
+Meta-Literature [Dataset-Exp 184],Xylose,15.51,139.1,44.1,1.48,Solid_Acid,37.0,1.0,Biphasic,1,2-MeTHF,0.33,15.0,5.0,15.0,33.3,10.0
+Meta-Literature [Dataset-Exp 185],Biomass-Derived,9.08,221.1,182.2,2.25,BL_Mixture,26.6,1.93,Biphasic,1,MIBK,0.33,10.0,71.7,99.5,72.1,27.8
+Meta-Literature [Dataset-Exp 186],Xylose,1.94,212.0,14.0,2.29,Bronsted,57.5,4.9,Monophasic_Organic,0,GVL,0.0,0.0,48.9,80.5,60.7,31.6
+Meta-Literature [Dataset-Exp 187],Xylose,5.4,217.2,47.2,2.2,Lewis,10.0,0.05,Monophasic_Organic,0,DES,0.0,0.0,55.8,93.5,59.7,37.7
+Meta-Literature [Dataset-Exp 188],Xylose,20.92,177.0,12.2,1.84,None,0.0,0.0,Monophasic_Organic,0,DES,0.0,0.0,5.0,15.0,33.3,10.0
+Meta-Literature [Dataset-Exp 189],Xylose,0.98,200.3,122.9,2.01,Lewis,25.3,0.24,Biphasic,1,2-MeTHF,0.33,15.0,72.5,99.5,72.9,27.0
+Meta-Literature [Dataset-Exp 190],Biomass-Derived,0.54,181.2,93.9,1.95,Lewis,23.1,0.14,Monophasic_Organic,0,GVL,0.0,0.0,45.7,77.2,59.2,31.5
+Meta-Literature [Dataset-Exp 191],Xylose,7.93,208.9,60.8,2.04,BL_Mixture,21.3,1.63,Water,0,None,0.0,0.0,37.3,99.4,37.5,62.1
+Meta-Literature [Dataset-Exp 192],Xylose,0.96,193.4,41.6,1.98,Solid_Acid,21.6,1.0,Monophasic_Organic,0,GVL,0.0,0.0,40.3,67.8,59.5,27.4
+Meta-Literature [Dataset-Exp 193],Xylose,3.62,223.9,91.1,2.21,BL_Mixture,21.9,1.74,Monophasic_Organic,0,GVL,0.0,0.0,61.3,99.5,61.6,38.2
+Meta-Literature [Dataset-Exp 194],Biomass-Derived,4.84,148.1,41.8,1.46,BL_Mixture,58.5,1.75,Monophasic_Organic,0,GVL,0.0,0.0,10.4,23.2,44.7,12.8
+Meta-Literature [Dataset-Exp 195],Biomass-Derived,2.15,149.9,47.8,1.64,None,0.0,0.0,Biphasic,1,MIBK,0.33,10.0,5.0,15.0,33.3,10.0
+Meta-Literature [Dataset-Exp 196],Biomass-Derived,5.1,180.3,41.3,1.88,Solid_Acid,11.5,1.0,Biphasic,1,2-MeTHF,0.33,15.0,25.3,35.4,71.5,10.1
+Meta-Literature [Dataset-Exp 197],Xylose,1.99,223.0,64.7,2.26,BL_Mixture,49.0,1.64,Biphasic,1,2-MeTHF,0.33,15.0,71.1,99.5,71.4,28.4
+Meta-Literature [Dataset-Exp 198],Xylose,2.03,199.1,49.2,2.17,Lewis,39.3,0.15,Monophasic_Organic,0,GVL,0.0,0.0,56.1,94.2,59.5,38.1
+Meta-Literature [Dataset-Exp 199],Xylose,0.48,216.5,89.4,1.98,Lewis,14.0,0.06,Monophasic_Organic,0,DES,0.0,0.0,63.2,99.5,63.5,36.3
+Meta-Literature [Dataset-Exp 200],Biomass-Derived,4.86,161.5,31.3,1.71,Bronsted,29.5,3.69,Water,0,None,0.0,0.0,5.0,15.0,33.4,10.0
+Meta-Literature [Dataset-Exp 201],Xylose,16.31,221.1,176.4,2.04,BL_Mixture,49.5,2.24,Water,0,None,0.0,0.0,35.4,98.8,35.8,63.4
+Meta-Literature [Dataset-Exp 202],Xylose,13.83,169.3,118.1,1.52,BL_Mixture,57.6,0.92,Monophasic_Organic,0,GVL,0.0,0.0,42.4,86.4,49.1,44.0
+Meta-Literature [Dataset-Exp 203],Biomass-Derived,0.91,202.7,62.1,1.93,Solid_Acid,44.5,1.0,Biphasic,1,2-MeTHF,0.33,15.0,71.1,96.1,74.0,24.9
+Meta-Literature [Dataset-Exp 204],Biomass-Derived,0.51,188.6,93.4,2.04,Solid_Acid,34.1,1.0,Monophasic_Organic,0,GVL,0.0,0.0,52.2,94.2,55.5,41.9
+Meta-Literature [Dataset-Exp 205],Xylose,15.16,202.9,30.9,2.04,BL_Mixture,25.9,2.01,Biphasic,1,MIBK,0.33,10.0,59.0,89.8,65.7,30.8
+Meta-Literature [Dataset-Exp 206],Xylose,0.93,201.8,60.0,2.18,Bronsted,29.0,5.22,Biphasic,1,Toluene,0.5,5.0,65.7,94.8,69.3,29.1
+Meta-Literature [Dataset-Exp 207],Xylose,18.33,212.7,13.4,2.29,BL_Mixture,52.2,1.02,Biphasic,1,Toluene,0.5,5.0,57.1,94.5,60.4,37.4
+Meta-Literature [Dataset-Exp 208],Xylose,16.39,159.5,13.8,1.68,Solid_Acid,37.5,1.0,Water,0,None,0.0,0.0,5.0,15.0,33.3,10.0
+Meta-Literature [Dataset-Exp 209],Xylose,0.48,198.0,46.7,2.18,Lewis,28.7,0.29,Water,0,None,0.0,0.0,34.0,86.2,39.5,52.2
+Meta-Literature [Dataset-Exp 210],Xylose,19.9,138.9,238.9,1.36,Bronsted,64.0,2.02,Monophasic_Organic,0,DES,0.0,0.0,15.2,36.5,41.6,21.3
+Meta-Literature [Dataset-Exp 211],Xylose,8.61,147.7,18.7,1.33,None,0.0,0.0,Biphasic,1,2-MeTHF,0.33,15.0,5.0,15.0,33.3,10.0
+Meta-Literature [Dataset-Exp 212],Xylose,5.18,197.0,43.2,1.99,None,0.0,0.0,Biphasic,1,2-MeTHF,0.33,15.0,37.1,52.9,70.1,15.8
+Meta-Literature [Dataset-Exp 213],Xylose,16.01,181.5,88.8,1.72,None,0.0,0.0,Biphasic,1,2-MeTHF,0.33,15.0,31.8,46.4,68.6,14.6
+Meta-Literature [Dataset-Exp 214],Biomass-Derived,0.48,223.7,59.0,2.14,BL_Mixture,38.5,2.46,Water,0,None,0.0,0.0,45.0,99.5,45.3,54.5
+Meta-Literature [Dataset-Exp 215],Xylose,4.11,178.7,180.2,1.92,BL_Mixture,44.8,1.73,Biphasic,1,Toluene,0.5,5.0,65.1,99.5,65.4,34.4
+Meta-Literature [Dataset-Exp 216],Biomass-Derived,4.32,202.2,237.1,2.09,Solid_Acid,47.5,1.0,Water,0,None,0.0,0.0,41.8,99.1,42.2,57.3
+Meta-Literature [Dataset-Exp 217],Biomass-Derived,16.47,173.7,12.4,1.59,Bronsted,77.4,2.6,Biphasic,1,Toluene,0.5,5.0,11.9,19.3,61.7,7.4
+Meta-Literature [Dataset-Exp 218],Xylose,5.03,222.3,87.8,2.24,BL_Mixture,43.9,2.18,Biphasic,1,2-MeTHF,0.33,15.0,74.3,99.5,74.7,25.2
+Meta-Literature [Dataset-Exp 219],Xylose,5.0,221.5,26.5,2.32,None,0.0,0.0,Biphasic,1,Toluene,0.5,5.0,51.9,77.0,67.4,25.1
+Meta-Literature [Dataset-Exp 220],Xylose,8.42,183.7,117.7,1.66,Bronsted,40.3,2.35,Monophasic_Organic,0,DES,0.0,0.0,47.4,91.8,51.7,44.3
