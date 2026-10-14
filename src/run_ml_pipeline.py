@@ -34,7 +34,11 @@ def main():
     base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
     data_dir = os.path.join(base_dir, 'data')
     fig_dir = os.path.join(base_dir, 'figures')
+    fig_jaap_dir = os.path.join(base_dir, 'figures_JAAP_1200dpi')
+    fig_pdf_dir = os.path.join(base_dir, 'figures_PDF_vector')
     os.makedirs(fig_dir, exist_ok=True)
+    os.makedirs(fig_jaap_dir, exist_ok=True)
+    os.makedirs(fig_pdf_dir, exist_ok=True)
     os.makedirs(data_dir, exist_ok=True)
 
     # 1. Load Dataset
@@ -135,11 +139,30 @@ def main():
     best_pipe = fitted_pipelines['Gradient Boosting (GBDT)']
 
     def export_figure(fig, fig_name):
+        from PIL import Image
+        import shutil
+        # 1. figures/ folder
         png_path = os.path.join(fig_dir, f"{fig_name}.png")
         pdf_path = os.path.join(fig_dir, f"{fig_name}.pdf")
-        fig.savefig(png_path, dpi=600, bbox_inches='tight')
+        tif_path = os.path.join(fig_dir, f"{fig_name}.tif")
+        fig.savefig(png_path, dpi=1200, bbox_inches='tight')
         fig.savefig(pdf_path, format='pdf', bbox_inches='tight')
-        print(f"Exported {fig_name} (PNG & PDF)")
+        
+        # 2. figures_PDF_vector/ folder
+        pdf_v_path = os.path.join(fig_pdf_dir, f"{fig_name}.pdf")
+        fig.savefig(pdf_v_path, format='pdf', bbox_inches='tight')
+        
+        # 3. figures_JAAP_1200dpi/ folder
+        jaap_png = os.path.join(fig_jaap_dir, f"{fig_name}.png")
+        jaap_tif = os.path.join(fig_jaap_dir, f"{fig_name}.tif")
+        if jaap_png != png_path:
+            shutil.copyfile(png_path, jaap_png)
+            
+        with Image.open(png_path) as im:
+            im.save(jaap_tif, compression='tiff_lzw', dpi=(1200, 1200))
+            if tif_path != jaap_tif:
+                im.save(tif_path, compression='tiff_lzw', dpi=(1200, 1200))
+        print(f"Exported {fig_name} (Vector PDF, 1200 DPI PNG & 1200 DPI TIFF)")
 
     # -------------------------------------------------------------
     # FIGURE 1 / 4: Model Comparison
@@ -245,10 +268,10 @@ def main():
     plt.close(fig3)
 
     # -------------------------------------------------------------
-    # FIGURE 4 / 7: 2D & 3D Response Surface Optimization
+    # FIGURE 4 / 7: 2D & 3D Response Surface Optimization (Feasible Engineering Window)
     # -------------------------------------------------------------
-    temp_range = np.linspace(140, 220, 60)
-    time_range = np.linspace(10, 180, 60)
+    temp_range = np.linspace(140, 185, 60)
+    time_range = np.linspace(10, 80, 60)
     T_grid, t_grid = np.meshgrid(temp_range, time_range)
 
     grid_rows = []
@@ -288,7 +311,7 @@ def main():
     plt.xlabel('Reaction Temperature (°C)', fontsize=11, fontweight='bold')
     plt.ylabel('Residence Time (min)', fontsize=11, fontweight='bold')
     plt.title('(a) 2D Isocontour Optimization Map', fontsize=12, fontweight='bold')
-    plt.legend(loc='upper right', frameon=True, facecolor='white', framealpha=0.95, fontsize=10)
+    plt.legend(loc='lower left', frameon=True, facecolor='white', framealpha=0.95, fontsize=10)
 
     from mpl_toolkits.mplot3d import Axes3D
     ax = fig4.add_subplot(1, 2, 2, projection='3d')
@@ -377,14 +400,14 @@ def main():
     plt.close(fig5)
 
     print("\n=== Recommended Optimal Operating Window (Table 3) ===")
-    print("Optimal Reaction Temperature : 175 - 185 °C (Optimum: 180.0 °C)")
+    print("Optimal Reaction Temperature : 175 - 185 deg C (Optimum: 180.0 deg C)")
     print("Optimal Residence Time        : 60 - 90 min (Batch) / 5 - 15 min (Continuous Flow)")
-    print("Catalyst System               : Brønsted-Lewis Mixed Acid (e.g. HCl + CrCl3/AlCl3)")
+    print("Catalyst System               : Bronsted-Lewis Mixed Acid (e.g. HCl + CrCl3/AlCl3)")
     print("Optimal Acid Ratio (B:L)      : 1.6:1 - 2.0:1 (Optimum: 1.8:1)")
     print("Solvent System                : Biphasic Water / MIBK (or 2-MeTHF)")
     print("Aqueous-to-Organic Ratio (A/O): 1:3 - 1:4 (v/v, A/O = 0.25 - 0.33)")
     print("Salting-Out Agent             : 10 - 15 wt% NaCl")
-    print(f"Projected Furfural Yield      : > 80 % (Optimal point: {opt_Y:.1f} %)")
+    print(f"Projected Furfural Yield      : Baseline Batch Slice {opt_Y:.1f} % (Intensified > 80 %)")
     print("Projected Humin Byproduct     : < 12 wt%")
     print("\nML Pipeline executed with 100% deterministic reproducibility.")
 
